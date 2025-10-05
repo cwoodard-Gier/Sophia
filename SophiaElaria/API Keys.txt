@@ -1,0 +1,7 @@
+gpt4all
+pyttsx3
+SpeechRecognition
+openai
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+requests
